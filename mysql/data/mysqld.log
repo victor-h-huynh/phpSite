@@ -1,0 +1,11 @@
+2019-10-11T18:40:06.100669Z mysqld_safe Logging to '/home/victor/wordpress-5.2.3-0/mysql/data/mysqld.log'.
+2019-10-11T18:40:06.172820Z mysqld_safe Starting mysqld.bin daemon with databases from /home/victor/wordpress-5.2.3-0/mysql/data
+2019-10-11T18:40:06.192317Z 0 [Warning] [MY-010139] [Server] Changed limits: max_open_files: 1024 (requested 8161)
+2019-10-11T18:40:06.192341Z 0 [Warning] [MY-010142] [Server] Changed limits: table_open_cache: 431 (requested 4000)
+2019-10-11T18:40:06.441981Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2019-10-11T18:40:06.442078Z 0 [System] [MY-010116] [Server] /home/victor/wordpress-5.2.3-0/mysql/bin/mysqld.bin (mysqld 8.0.17) starting as process 23664
+2019-10-11T18:40:06.444399Z 0 [Warning] [MY-013242] [Server] --character-set-server: 'utf8' is currently an alias for the character set UTF8MB3, but will be an alias for UTF8MB4 in a future release. Please consider using UTF8MB4 in order to be unambiguous.
+2019-10-11T18:40:06.444416Z 0 [Warning] [MY-013244] [Server] --collation-server: 'utf8_general_ci' is a collation of the deprecated character set UTF8MB3. Please consider using UTF8MB4 with an appropriate collation instead.
+2019-10-11T18:40:08.470808Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-10-11T18:40:08.529755Z 0 [System] [MY-010931] [Server] /home/victor/wordpress-5.2.3-0/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.17'  socket: '/home/victor/wordpress-5.2.3-0/mysql/tmp/mysql.sock'  port: 3307  MySQL Community Server - GPL.
+2019-10-11T18:40:08.662569Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060

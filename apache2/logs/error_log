@@ -1,0 +1,14 @@
+[Fri Oct 11 14:40:34.801161 2019] [ssl:warn] [pid 23830] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 11 14:40:34.829262 2019] [ssl:warn] [pid 23831] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 11 14:40:35.029310 2019] [mpm_prefork:notice] [pid 23831] AH00163: Apache/2.4.41 (Unix) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Fri Oct 11 14:40:35.029371 2019] [core:notice] [pid 23831] AH00094: Command line: '/home/victor/wordpress-5.2.3-0/apache2/bin/httpd.bin -f /home/victor/wordpress-5.2.3-0/apache2/conf/httpd.conf'
+[Fri Oct 11 14:40:44.607337 2019] [mpm_prefork:notice] [pid 23831] AH00169: caught SIGTERM, shutting down
+[Fri Oct 11 14:40:47.225459 2019] [ssl:warn] [pid 23923] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 11 14:40:47.247980 2019] [ssl:warn] [pid 23924] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 11 14:40:47.257462 2019] [mpm_prefork:notice] [pid 23924] AH00163: Apache/2.4.41 (Unix) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Fri Oct 11 14:40:47.257505 2019] [core:notice] [pid 23924] AH00094: Command line: '/home/victor/wordpress-5.2.3-0/apache2/bin/httpd.bin -f /home/victor/wordpress-5.2.3-0/apache2/conf/httpd.conf'
+[Fri Oct 11 14:41:31.019219 2019] [mpm_prefork:notice] [pid 23924] AH00169: caught SIGTERM, shutting down
+[Fri Oct 11 14:41:33.566777 2019] [ssl:warn] [pid 24059] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 11 14:41:33.589418 2019] [ssl:warn] [pid 24060] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 11 14:41:33.598597 2019] [mpm_prefork:notice] [pid 24060] AH00163: Apache/2.4.41 (Unix) OpenSSL/1.1.1c PHP/7.3.9 configured -- resuming normal operations
+[Fri Oct 11 14:41:33.598630 2019] [core:notice] [pid 24060] AH00094: Command line: '/home/victor/wordpress-5.2.3-0/apache2/bin/httpd.bin -f /home/victor/wordpress-5.2.3-0/apache2/conf/httpd.conf'

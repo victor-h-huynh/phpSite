@@ -1,0 +1,6 @@
+#!/bin/sh
+
+. /home/victor/wordpress-5.2.3-0/scripts/setenv.sh
+SASL_PATH="/home/victor/wordpress-5.2.3-0/common/lib/sasl2"
+                export SASL_PATH
+exec /home/victor/wordpress-5.2.3-0/common/sbin/.sasldblistusers2.bin -f "/home/victor/wordpress-5.2.3-0/common/etc/sasldb2" "$@"
