@@ -1,3 +1,8 @@
 <?php
-  echo 2 + 2
+  function mySecondFunction() {
+    echo "<p>Hello, this is my second function</p>";
+  }
+
+  mySecondFunction();
+  mySecondFunction();
 ?>
